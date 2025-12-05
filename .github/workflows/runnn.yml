@@ -36,7 +36,7 @@ env:
   OPTION_5: ${{ inputs.option5 }}
 
 jobs:
-  l:
+  things:
     runs-on: ubuntu-24.04
     steps:
       - name: July
